@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SiniflarVeFonksiyonlar</string>
+    <string name="Netice">Sonuç :</string>
+    <string name="sonu">Sonuç:</string>
+    <string name="textview">TextView</string>
+    <string name="butonum">Butonum</string>
+</resources>
